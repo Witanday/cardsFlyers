@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Witanday/cardsFlyers/static/css/main.869dc402.chunk.css",
+    "main.js": "/Witanday/cardsFlyers/static/js/main.dafc5091.chunk.js",
+    "main.js.map": "/Witanday/cardsFlyers/static/js/main.dafc5091.chunk.js.map",
+    "runtime-main.js": "/Witanday/cardsFlyers/static/js/runtime-main.71514d90.js",
+    "runtime-main.js.map": "/Witanday/cardsFlyers/static/js/runtime-main.71514d90.js.map",
+    "static/js/2.cc407b54.chunk.js": "/Witanday/cardsFlyers/static/js/2.cc407b54.chunk.js",
+    "static/js/2.cc407b54.chunk.js.map": "/Witanday/cardsFlyers/static/js/2.cc407b54.chunk.js.map",
+    "index.html": "/Witanday/cardsFlyers/index.html",
+    "precache-manifest.21fc7a064f708da7b10935c2b2a21222.js": "/Witanday/cardsFlyers/precache-manifest.21fc7a064f708da7b10935c2b2a21222.js",
+    "service-worker.js": "/Witanday/cardsFlyers/service-worker.js",
+    "static/css/main.869dc402.chunk.css.map": "/Witanday/cardsFlyers/static/css/main.869dc402.chunk.css.map",
+    "static/js/2.cc407b54.chunk.js.LICENSE.txt": "/Witanday/cardsFlyers/static/js/2.cc407b54.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Witanday/cardsFlyers/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71514d90.js",
+    "static/js/2.cc407b54.chunk.js",
+    "static/css/main.869dc402.chunk.css",
+    "static/js/main.dafc5091.chunk.js"
+  ]
+}
