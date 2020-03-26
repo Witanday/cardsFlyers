@@ -2,7 +2,7 @@
   "name": "roboooo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Witanday/cardsFlyers",
+  "homepage": "https://Witanday.github.io/cardsFlyers",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
